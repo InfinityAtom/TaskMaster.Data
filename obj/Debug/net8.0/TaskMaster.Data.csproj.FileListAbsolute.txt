@@ -12,3 +12,4 @@ C:\Users\Fabian\source\repos\TaskMaster.Data\obj\Debug\net8.0\refint\TaskMaster.
 C:\Users\Fabian\source\repos\TaskMaster.Data\obj\Debug\net8.0\TaskMaster.Data.pdb
 C:\Users\Fabian\source\repos\TaskMaster.Data\obj\Debug\net8.0\TaskMaster.Data.genruntimeconfig.cache
 C:\Users\Fabian\source\repos\TaskMaster.Data\obj\Debug\net8.0\ref\TaskMaster.Data.dll
+C:\Users\Fabian\source\repos\TaskMaster.Data\obj\Debug\net8.0\TaskMaster.Data.sourcelink.json

@@ -1,4 +1,7 @@
-﻿namespace TaskMaster.Data.Model;
+﻿using System;
+using System.Collections.Generic;
+
+namespace TaskMaster.Data.Model;
 
 public partial class Activity
 {
@@ -10,9 +13,9 @@ public partial class Activity
 
     public string? TaskDescription { get; set; }
 
-    public DateTime? TaskDueDate { get; set; }
+    public DateTime? StartDate { get; set; }
 
-    public int Progress { get; set; }
+    public DateTime? EndDate { get; set; }
 
     public bool Completed { get; set; }
 
