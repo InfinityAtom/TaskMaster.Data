@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskMaster.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38c83d289f584f77d8b6207921c92c8b81d83ec0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e73aebed58f58173b19df12f667812e0ea4d890")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskMaster.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskMaster.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
